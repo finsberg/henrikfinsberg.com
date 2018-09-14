@@ -1,0 +1,319 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[11pt, a4paper]{article}
+\usepackage{fontspec} 
+
+% DOCUMENT LAYOUT
+\usepackage[margin=1.2in]{geometry} 
+\setlength\parindent{0in}
+
+% fix for pandoc 1.14
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Reduce spacing in itemize, enumerate and titles
+\usepackage{multicol}
+\usepackage{enumitem}
+\setenumerate{nolistsep}
+\setitemize{nolistsep}
+
+% FONTS
+\usepackage{xunicode}
+\usepackage{xltxtra}
+\defaultfontfeatures{Mapping=tex-text} % converts LaTeX specials (quotes'' --- dashes etc.) to unicode
+% \setromanfont[Ligatures={Common}, Numbers={OldStyle}]{Palatino}
+% \setmonofont[Scale=1.0]{Monaco} 
+% \setsansfont[Scale=1.0]{Optima Regular} 
+
+% HEADINGS and TITLES
+\usepackage{sectsty}
+\usepackage[normalem]{ulem}
+\sectionfont{\sffamily\mdseries\large\underline} % Underlines headings
+\setcounter{secnumdepth}{-1} % Removes the numbers before sections
+\subsectionfont{\rmfamily\mdseries\scshape\normalsize}
+\subsubsectionfont{\rmfamily\bfseries\upshape\normalsize}
+
+\usepackage{titling}
+\setlength{\droptitle}{-90pt} % The negative number moves the title closer to the top of the page
+\title{Curriculum Vitae} % name Curriculum Vitae
+\date{13 September 2018\\} % Leave blank to remove the date
+\author{Henrik Nicolay Topnes Finsberg\\\\
+  http://henrikfinsberg.com\\\\
+Jongsbruveien 27B \textbar{} Sandvika, 1338\\ %Put your address here
++47 911 868 43 \textbar{} henriknf@simula.no } % put your contact information here
+
+% BEGIN DOCUMENT
+\begin{document}
+\maketitle
+\begin{raggedright}
+\hypertarget{personal-summary}{%
+\subsubsection{Personal summary}\label{personal-summary}}
+
+\begin{quote}
+My research interests are \ldots{} Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+\end{quote}
+
+\hypertarget{education}{%
+\subsubsection{Education}\label{education}}
+
+\begin{itemize}
+\tightlist
+\item
+  2014 - 2017: PhD Scientific Computing, Simula Research Laboratory and
+  University of Oslo, Oslo (Norway)
+\end{itemize}
+
+\begin{quote}
+Title: Patient-specfic computational modeling of cardiac mechanics.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  2012 - 2014: MSc. Applied and Engineering Mathematics, Nordic Master
+  in Applied and engineering mathematics(N5TeAM), Trondheim (Norway),
+  Copenhagen (Denmark)
+\end{itemize}
+
+\begin{quote}
+Joint master program with first year at DTU in Copenhagen, and second
+year at NTNU in Trondheimm. Degree from NTNU Trondheim: Master of
+Science in Applied and Engineering Mathematics. Degree DTU Copenhagen:
+Master of Science in Engineering. Master thesis title: Wavelet
+Techniques in Medical Imaging. Final Grade A (Best: A Average: A Worst:
+C)
+\end{quote}
+
+\begin{itemize}
+\item
+  2010 -- 2012 MSc. Physics and Mathematics, NTNU, Trondheim (Norway).
+  \textgreater{} Specialized in industrial mathematics. Switched to
+  N5TeAM after finishing first year at \textgreater{} industrial
+  mathematics.
+\item
+  2006 -- 2008: Sergeant, Army Officer Candidate School, Skjold
+  (Norway).
+\end{itemize}
+
+\begin{quote}
+Two-year officer school in the engineering battalion. Grade B (Best: A
+Average: Worst: C)
+\end{quote}
+
+\hypertarget{technical}{%
+\subsubsection{Technical}\label{technical}}
+
+\begin{itemize}
+\tightlist
+\item
+  Expert: \href{https://www.python.org}{Python},
+  \href{https://en.wikipedia.org/wiki/Unix}{Unix},
+  \href{https://www.latex-project.org}{LaTeX},
+  \href{https://fenicsproject.org}{FEniCS},
+  \href{https://en.wikipedia.org/wiki/Linux}{Linux},
+\item
+  Intermediate: \href{https://www.docker.com}{Docker}
+  \href{https://en.wikipedia.org/wiki/HTML}{HTML},
+  \href{https://en.wikipedia.org/wiki/Bash_(Unix_shell)}{Bash},
+  \href{https://se.mathworks.com/products/matlab.html}{Matlab},
+  \href{https://git-scm.com}{Git}, \href{http://jupyter.org}{Jupyter},
+  \href{https://www.vtk.org}{VTK}, \href{http://gmsh.info}{Gmsh},
+  \href{https://www.paraview.org}{Paraview}
+\item
+  Basic:
+  \href{https://en.wikipedia.org/wiki/Cascading_Style_Sheets}{CSS},
+  \href{https://en.wikipedia.org/wiki/JavaScript}{JavaScript},
+  \href{https://en.wikipedia.org/wiki/C\%2B\%2B}{C++},
+  \href{https://en.wikipedia.org/wiki/C_(programming_language)}{C},
+  \href{https://en.wikipedia.org/wiki/C_Sharp_(programming_language)}{C\#},
+  \href{https://kubernetes.io}{Kubernetes},
+  \href{https://www.r-project.org/about.html}{R},
+  \href{http://www.swig.org}{Swig}
+\end{itemize}
+
+\hypertarget{employment}{%
+\subsubsection{Employment}\label{employment}}
+
+\begin{itemize}
+\tightlist
+\item
+  2017-present: Research Engineer, \href{https://www.simula.no}{Simula
+  Research Laboratory}
+\end{itemize}
+
+\begin{quote}
+In this role
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  2016: Corrector, University of Oslo
+\end{itemize}
+
+\begin{quote}
+Correcting assignments for master students in the course
+\href{https://www.uio.no/studier/emner/matnat/ifi/INF4331/index-eng.html}{INF4331,
+Problem solving with high level languanges}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  2009 -- 2013 Teaching Assistant, Norwegian University of Science and
+  Technology, Trondheim.
+\end{itemize}
+
+\begin{quote}
+Assisted groups of 25 students in Calculus 1, Calculus 2, Calculus 3,
+Statistics and Information Technology.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  2012 -- 2012 Summer Intern, \href{https://www.silabs.com}{Energy
+  Micro}, Oslo, Norway.
+\end{itemize}
+
+\begin{quote}
+Porting the Energy Micro University program to Giant Gecko Starter Kit.
+Improving code and embedded documentation as well as look and usability
+of the doxygen generated documentation for all kits.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  2011 -- 2012 Mentor, \href{https://www.ent3r.no}{ENT3R} NTNU,
+  Trondheim.
+\end{itemize}
+
+\begin{quote}
+Responsibility for a class of 20 students from high school. Help
+students with mathematics, and motivate them for further education in
+science.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  2011 -- 2011 Summer Intern, \href{https://www.ffi.no}{Norwegian
+  Defence Research Establishment (FFI)}, Kjeller.
+\end{itemize}
+
+\begin{quote}
+Created a GUI in Visual C\# and Matlab to read the log files, and use
+this information to calculate and plot the desired data.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  2007 - 2008: Squad leader, Engineering Batalion, Norwegian Army
+\end{itemize}
+
+\begin{quote}
+Responsibilities: Educate soldiers with background in construction, and
+lead small construction projects.
+\end{quote}
+
+\hypertarget{activities}{%
+\subsubsection{Activities}\label{activities}}
+
+\newpage
+
+\hypertarget{publications}{%
+\subsubsection{Publications}\label{publications}}
+
+\begin{itemize}
+\tightlist
+\item
+  YYYY: Name et al.~Article title. Journal name. Link/DOI
+\item
+  YYYY: Name et al.~Article title. Journal name. Link/DOI
+\item
+  YYYY: Name et al.~Article title. Journal name. Link/DOI
+\item
+  YYYY: Name et al.~Article title. Journal name. Link/DOI
+\item
+  YYYY: Name et al.~Article title. Journal name. Link/DOI
+\item
+  YYYY: Name et al.~Article title. Journal name. Link/DOI
+\item
+  YYYY: Name et al.~Article title. Journal name. Link/DOI
+\end{itemize}
+
+\hypertarget{selected-presentations}{%
+\subsubsection{Selected presentations}\label{selected-presentations}}
+
+\begin{itemize}
+\tightlist
+\item
+  YYYY: Title of presentation. Conference. Location. Poster/Oral
+\item
+  YYYY: Title of presentation. Conference. Location. Poster/Oral
+\item
+  YYYY: Title of presentation. Conference. Location. Poster/Oral
+\item
+  YYYY: Title of presentation. Conference. Location. Poster/Oral
+\item
+  YYYY: Title of presentation. Conference. Location. Poster/Oral
+\item
+  YYYY: Title of presentation. Conference. Location. Poster/Oral
+\item
+  YYYY: Title of presentation. Conference. Location. Poster/Oral
+\end{itemize}
+
+\hypertarget{memberships-and-committees}{%
+\subsubsection{Memberships and
+committees}\label{memberships-and-committees}}
+
+\begin{itemize}
+\tightlist
+\item
+  YYYY: Name of committee/society etc.
+\item
+  YYYY: Name of committee/society etc.
+\item
+  YYYY: Name of committee/society etc.
+\item
+  YYYY: Name of committee/society etc.
+\item
+  YYYY: Name of committee/society etc.
+\item
+  YYYY: Name of committee/society etc.
+\end{itemize}
+
+\hypertarget{awards-and-supporting-information}{%
+\subsubsection{Awards and supporting
+information}\label{awards-and-supporting-information}}
+
+\begin{itemize}
+\tightlist
+\item
+  YYYY: Description of award, certificate, supporting info etc.
+\item
+  YYYY: Description of award, certificate, supporting info etc.
+\item
+  YYYY: Description of award, certificate, supporting info etc.
+\item
+  YYYY: Description of award, certificate, supporting info etc.
+\item
+  YYYY: Description of award, certificate, supporting info etc.
+\item
+  YYYY: Description of award, certificate, supporting info etc.
+\item
+  YYYY: Description of award, certificate, supporting info etc.
+\end{itemize}
+
+\hypertarget{references}{%
+\subsubsection{References}\label{references}}
+
+Available on request.
+\end{raggedright}
+\end{document}
