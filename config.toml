@@ -68,20 +68,32 @@ pygmentsCodefencesGuessSyntax = true
 #     url = ""
 #     weight = 1
 
+
+
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
-    weight = 3
+    name = "Code"
+    url = "code"
+    weight = 1
 
 [[menu.main]]
     name = "Research"
     url = "research"
-    weight = 1
+    weight = 2
+
+[[menu.main]]
+    name = "Links"
+    url = "links"
+    weight = 3
 
 [[menu.main]]
     name = "CV"
     url = "cv"
-    weight = 2
+    weight = 4
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 5
 
 # [[menu.main]]
 #     parent = "samples"

@@ -171,13 +171,15 @@ student association , Trondheim.
   biomedical engineering, p.e2982. 
   [DOI](https://doi.org/10.1002/cnm.2982)
   [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cnm.2982)
-
+  [CODE](https://bitbucket.org/finsberg/efficient-estimation-of-personalized-biventricular-mechanical)
+  
 - Finsberg, H., Balaban, G., Ross, S., Håland, T.F., Odland, H.H.,
   Sundnes, J. and Wall, S., 2018. Estimating cardiac contraction
   through high resolution data assimilation of a personalized
   mechanical model. Journal of computational science, 24, pp.85-90. 
   [DOI](https://doi.org/10.1016/j.jocs.2017.07.013)
   [PDF](https://www.sciencedirect.com/science/article/pii/S1877750317308190/pdfft?md5=3f7bbc82a870dc84f5080564c7f3c33a&pid=1-s2.0-S1877750317308190-main.pdf)
+  [CODE](https://bitbucket.org/finsberg/estimate_cardiac_contraction)
 
 - Balaban, G., Finsberg, H., Odland, H.H., Rognes, M.E., Ross,
   S., Sundnes, J. and Wall, S., 2017. High‐resolution data
@@ -186,22 +188,38 @@ student association , Trondheim.
   engineering, 33(11),
   p.e2863. 
   [DOI](https://doi.org/10.1002/cnm.2863) 
-  [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cnm.2863)
+  [PDF](https://www.duo.uio.no/bitstream/handle/10852/62016/Balaban_et_al-2017-cnm-2863.pdf)
+  [CODE](https://bitbucket.org/finsberg/cardiac_highres_dataassim)
 
 
 ### Conference proceedings and preprints
 
 - Finsberg, H., Luybarskii, Y., Growth of entire functions via Borel
   transform, TMA4500 Specialization project, 2013
-  [DOI](10.13140/RG.2.2.10460.44160)
+  [DOI](http://doi.org/10.13140/RG.2.2.10460.44160)
   [PDF](https://www.researchgate.net/profile/Henrik_Finsberg/publication/327633791_Growth_of_entire_functions_via_Borel_transform/links/5b9ab94145851574f7c5a499/Growth-of-entire-functions-via-Borel-transform.pdf)
 
 
 ### Posters
 
+- Geilo Winter School: Scientific Visualization, 2016
+  [PDF](/assets/posters/geilo_winter_school_2016.pdf)
+  
+- Summer Biomechanics, Bioengineering, and Biotransport Conference
+  (SB3C), Tucson, AZ 2017 [PDF](/assets/posters/sb3c_2017.pdf)
+  
+- The Heart by Numbers: Integrating Theory, Computation and Experiment
+  to Advance Cardiology, Berlin 2018 [PDF](/assets/posters/heart_by_numbers_2018.pdf)
+
 
 ### Talks
 
+- PhD defence, Patient-Specific Computational Modeling of Cardiac
+Mechanics 17.01.18, Oslo, Norway [PDF](/assets/talks/defence.pdf) 
+
+- PhD trial lecture, How do the mechanics and structure of the heart
+matter in regard to patient-specific cardiac modelling? 17.01.18,
+Oslo, Norway [PDF](/assets/talks/trial_lecture.pdf) 
 
 
 ### References
