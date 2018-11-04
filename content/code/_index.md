@@ -4,7 +4,7 @@ comments: false
 ---
 During my time as a PhD student and a reasearch engineer at Simula, I
 have been written a lot of code. My preferred language is with no
-doubt [python](https://www.python.org), a langunge which I had almost
+doubt [python](https://www.python.org), a language which I had almost
 never used before I started my PhD.
 
 Here you will find posts about the software and toolboxes that I have

@@ -40,4 +40,7 @@ html:
 	pandoc ../_index.md \
 	-o "cv.html"
 
+clean:
+	rm -f cv*
+
 .PHONY: help pdf docx html tex
