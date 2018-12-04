@@ -52,6 +52,12 @@ bookmark these sites, but I will also post the most useful sites her.
 * [dispy - Distributed and parallel computing with python](http://dispy.sourceforge.net)
 * [dask.distributed](http://distributed.dask.org/en/latest/)
 
+### Wrapping code
+* [Interfacing Python and C: The CFFI Module](https://dbader.org/blog/python-cffi)
+* [Making your C library callable from Python by wrapping it with Cython](https://medium.com/@shamir.stav_83310/making-your-c-library-callable-from-python-by-wrapping-it-with-cython-b09db35012a3)
+* [Write your own Python bindings (Shiboken)](http://blog.qt.io/blog/2018/05/31/write-python-bindings/)
+* [Cython, pybind11, cffi – which tool should you choose?](http://blog.behnel.de/posts/cython-pybind11-cffi-which-tool-to-choose.html) 
+
 ## Jupyter <a name="jupyter"></a>
 
 * [nbviewer](https://nbviewer.jupyter.org)
