@@ -39,6 +39,8 @@ bookmark these sites, but I will also post the most useful sites her.
 * [Replacing bash scripting with python](https://github.com/ninjaaron/replacing-bash-scripting-with-python)
 * [An Overview of Packaging for Python](https://packaging.python.org/overview/)
 * [Awesome Python Features Explained Using the World of Magic](https://github.com/zotroneneis/magical_universe)
+* [Python Data Visualization 2018: Why So Many Libraries?](https://www.anaconda.com/blog/developer-blog/python-data-visualization-2018-why-so-many-libraries/)
+
 
 ### Python Packages
 
@@ -52,7 +54,7 @@ bookmark these sites, but I will also post the most useful sites her.
 * [dispy - Distributed and parallel computing with python](http://dispy.sourceforge.net)
 * [dask.distributed](http://distributed.dask.org/en/latest/)
 
-### Wrapping code
+### Python bindings
 * [Interfacing Python and C: The CFFI Module](https://dbader.org/blog/python-cffi)
 * [Making your C library callable from Python by wrapping it with Cython](https://medium.com/@shamir.stav_83310/making-your-c-library-callable-from-python-by-wrapping-it-with-cython-b09db35012a3)
 * [Write your own Python bindings (Shiboken)](http://blog.qt.io/blog/2018/05/31/write-python-bindings/)
