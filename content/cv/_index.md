@@ -7,11 +7,15 @@ city: Sandvika
 postcode: 1338
 phone: +47 911 868 43
 email: henriknf@simula.no
-date: 13 September 2018
+date: 21 May 2019
 ---
 
 <div style="text-align: right">[PDF](latex/cv.pdf)</div>
 ### Personal summary
+
+> From May 2019 to May 2020 I will also be a part time visiting
+researcher at the [Healey Lab](http://coebiomaterial.wpengine.com) 
+working with computational tools for "heart-on-chip" systems.
 
 > In October 2017 I started as a Research Engineer at Simula Research
 Laboratory in the department for Scientific Computing, and will work
@@ -80,18 +84,24 @@ industrial mathematics.
   [Jupyter](http://jupyter.org),
   [VTK](https://www.vtk.org),
   [Gmsh](http://gmsh.info),
-  [Paraview](https://www.paraview.org)
-- Basic:
-  [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets),
-  [JavaScript](https://en.wikipedia.org/wiki/JavaScript),
+  [Paraview](https://www.paraview.org),
   [C++](https://en.wikipedia.org/wiki/C%2B%2B),
   [C](https://en.wikipedia.org/wiki/C_(programming_language)),
+  [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- Basic:
+  [CUDA](https://en.wikipedia.org/wiki/CUDA)
+  [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets),
   [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)),
   [Kubernetes](https://kubernetes.io),
   [R](https://www.r-project.org/about.html),
   [Swig](http://www.swig.org)
 
 ### Employment
+
+- 2019-present: Research Scholar, [UC Berkeley Biengineering](http://bioeng.berkeley.edu)
+
+> Visiting research at the [Healey Lab](http://coebiomaterial.wpengine.com) 
+working with computational tools for "heart-on-chip" systems.
 
 - 2017-present: Research Engineer, [Simula Research Laboratory](https://www.simula.no)
 
