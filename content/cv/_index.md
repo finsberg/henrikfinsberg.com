@@ -7,15 +7,11 @@ city: Sandvika
 postcode: 1338
 phone: +47 911 868 43
 email: henriknf@simula.no
-date: 21 May 2019
+date: 14 September 2019
 ---
 
 <div style="text-align: right">[PDF](latex/cv.pdf)</div>
 ### Personal summary
-
-> From May 2019 to May 2020 I will also be a part time visiting
-researcher at the [Healey Lab](http://coebiomaterial.wpengine.com) 
-working with computational tools for "heart-on-chip" systems.
 
 > In October 2017 I started as a Research Engineer at Simula Research
 Laboratory in the department for Scientific Computing, and will work
@@ -33,12 +29,18 @@ of interests are mathematical modelling, geometric modelling and image
 processing. In my master thesis I studied methods for image classification
 of ultrasound images based on convolutional neural networks.
 
+> From May 2019 to May 2020 I will also be a part time visiting
+researcher at the [Healey Lab](http://coebiomaterial.wpengine.com) 
+working with computational tools for "heart-on-chip" systems.
+
+> In addition during the fall semester of 2019, I will be the main responsible and lecturer for the course [IN1910 Programming with Scientific Application](https://www.uio.no/studier/emner/matnat/ifi/IN1910/h19/index.html) 
+
 ### Education
 
 - 2014 - 2017: PhD Scientific Computing, Simula Research Laboratory and University
   of Oslo, Oslo (Norway)
 
-> Title: Patient-specfic computational modeling of cardiac mechanics.
+> Title: [Patient-specific computational modeling of cardiac mechanics](https://www.duo.uio.no/handle/10852/62015).
 
 
 - 2012 - 2014: MSc. Applied and Engineering Mathematics, Nordic Master in Applied
@@ -48,7 +50,7 @@ and engineering mathematics(N5TeAM), Trondheim (Norway), Copenhagen (Denmark)
 second year at NTNU in Trondheimm. Degree from  NTNU Trondheim:
 Master of Science in Applied and Engineering Mathematics. Degree DTU
 Copenhagen: Master of Science in Engineering. Master thesis title:
-Wavelet Techniques in Medical Imaging. Final Grade A (Best: A Average: A
+[Wavelet Techniques in Medical Imaging](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/259333/733307_FULLTEXT01.pdf). Final Grade A (Best: A Average: A
 Worst: C)
 
 > [Transcript NTNU](/assets/cv/transcripts_NTNU.pdf)
@@ -87,16 +89,27 @@ industrial mathematics.
   [Paraview](https://www.paraview.org),
   [C++](https://en.wikipedia.org/wiki/C%2B%2B),
   [C](https://en.wikipedia.org/wiki/C_(programming_language)),
-  [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+  [JavaScript](https://en.wikipedia.org/wiki/JavaScript),
+  [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - Basic:
-  [CUDA](https://en.wikipedia.org/wiki/CUDA)
-  [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets),
+  [CUDA](https://en.wikipedia.org/wiki/CUDA),
   [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)),
   [Kubernetes](https://kubernetes.io),
   [R](https://www.r-project.org/about.html),
   [Swig](http://www.swig.org)
 
+### Media
+
+* Homepage: http://henrikfinsberg.com
+* GitHub: https://github.com/finsberg
+* Bitbucket: https://bitbucket.org/finsberg
+* LinkedIn: https://www.linkedin.com/in/henrik-finsberg-51664b53/
+
 ### Employment
+
+- 2019-present Lecturer, [University of Oslo, Department of Informatics](https://www.mn.uio.no/ifi/english/)
+
+> Lecturer and main course responsible for [IN1910 Programming with Scientific Application](https://www.uio.no/studier/emner/matnat/ifi/IN1910/h19/index.html). Responsible for lecturing, as well as most of the administrative task.
 
 - 2019-present: Research Scholar, [UC Berkeley Biengineering](http://bioeng.berkeley.edu)
 
@@ -105,7 +118,7 @@ working with computational tools for "heart-on-chip" systems.
 
 - 2017-present: Research Engineer, [Simula Research Laboratory](https://www.simula.no)
 
-> Development of high performace copmuitational software tools and
+> Development of high performance computational software tools and
 mathematical models for the study of Human Induced Pluripotent Stem Cells (hiPSC)
 
 
@@ -147,7 +160,13 @@ and lead small construction projects.
 
 ### Activities
 
-- 2015-2016 Member of Excepert Committee, Nokut, Oslo.
+- 2019-present: Safety delegate at Simula Research Laboratory
+
+- 2018-2020: Chairman of [Veslefrikk barnehage](http://veslefrikkbaerum.barnehage.no/Innhold/Side/54035)
+
+> Responsible for the kindergarten.
+
+- 2015-2016 Member of Expert Committee, Nokut, Oslo.
 
 > Responsible for evaluating an application for accreditation of a PhD program
 at Bergen university college together with three other experts.
