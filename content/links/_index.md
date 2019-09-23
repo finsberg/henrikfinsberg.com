@@ -40,25 +40,25 @@ bookmark these sites, but I will also post the most useful sites her.
 * [An Overview of Packaging for Python](https://packaging.python.org/overview/)
 * [Awesome Python Features Explained Using the World of Magic](https://github.com/zotroneneis/magical_universe)
 * [Python Data Visualization 2018: Why So Many Libraries?](https://www.anaconda.com/blog/developer-blog/python-data-visualization-2018-why-so-many-libraries/)
-
+* [Flak best practices - Patterns for building testable, scalable, and maintainable APIs](http://alanpryorjr.com/2019-05-20-flask-api-example/) 
 
 ### Python Packages
 
 * [Awesome python](https://github.com/vinta/awesome-python)
-* [Plumbum - shell commands in python](https://plumbum.readthedocs.io/en/latest/)
-* [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org)
 * [black - The Uncompromising Code Formatter](https://github.com/ambv/black)
 * [flake8 - Your Tool For Style Guide Enforcement](http://flake8.pycqa.org/en/latest/index.html)
 * [pylatex - A Python library for creating LaTeX files](https://github.com/JelteF/PyLaTeX)
 * [artic - High performance datastore for time series and tick data](https://github.com/manahl/arctic)
 * [dispy - Distributed and parallel computing with python](http://dispy.sourceforge.net)
 * [dask.distributed](http://distributed.dask.org/en/latest/)
+* [pylustrator](https://pylustrator.readthedocs.io/en/latest/)
 
 ### Python bindings
 * [Interfacing Python and C: The CFFI Module](https://dbader.org/blog/python-cffi)
 * [Making your C library callable from Python by wrapping it with Cython](https://medium.com/@shamir.stav_83310/making-your-c-library-callable-from-python-by-wrapping-it-with-cython-b09db35012a3)
 * [Write your own Python bindings (Shiboken)](http://blog.qt.io/blog/2018/05/31/write-python-bindings/)
-* [Cython, pybind11, cffi – which tool should you choose?](http://blog.behnel.de/posts/cython-pybind11-cffi-which-tool-to-choose.html) 
+* [Cython, pybind11, cffi – which tool should you choose?](http://blog.behnel.de/posts/cython-pybind11-cffi-which-tool-to-choose.html)
+* [Hybrid Python/C++ packages, revisited](https://www.benjack.io/2018/02/02/python-cpp-revisited.html)
 
 ## Jupyter <a name="jupyter"></a>
 
